@@ -16,7 +16,7 @@ dest_path = src_path
 
 #declare filename you want to rename
 
-def renameFile ():
+def renameFile():
     filename = str(input('Enter the name of the current file: '))
     newfilename = filename+' '+time
     current_name = os.path.join(src_path, filename)
