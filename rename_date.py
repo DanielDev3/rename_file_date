@@ -1,5 +1,4 @@
 # Daniel Godinez | Version 1 | Python 3.6.3 | March 2018
-# Credits: Max S.
 # This python script is relating to OpenEMR backup procedures
 # This can be run immediately after the backup script runs on Linux.
 # but it can be altered to your own purposes. See Version 2 for a manual version

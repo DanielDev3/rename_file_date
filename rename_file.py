@@ -3,7 +3,6 @@
 import os
 import time
 
-# Credits: Max S., thank you!
 # This script will rename 1 or more files based on the name of the curent file and append the current date and time
 # be sure to save this script in the same Working directory as the file(s) you want to re-name
 # set time and date to a string
